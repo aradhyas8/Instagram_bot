@@ -59,10 +59,7 @@ class Bot():
 
 
 
-         # or do from time import sleep at the top
 
-    # def __init__(self):
-    #     self.geek = "GeekforGeeks"
 
 
 def main():
